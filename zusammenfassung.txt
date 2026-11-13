@@ -1,0 +1,5 @@
+Run 43310468038 – Quelle 1713e8be63 – Fri Nov 13 00:14:03 UTC 2026
+
+== Pakete mit Build-Fehlern ==
+logs/package/feeds/packages/libpfring/compile.txt
+logs/package/feeds/packages/perl/host-compile.txt
